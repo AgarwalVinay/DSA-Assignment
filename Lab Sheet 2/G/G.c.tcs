@@ -1,0 +1,1 @@
+[{"input":"trweexxbababxxxuuvuuio","output":"9\nxxbababxx"},{"input":"thebigbangtheory","output":"1\nt"},{"input":"abba","output":"4\nabba"},{"input":"abbba","output":"5\nabbba"},{"input":"xabbba","output":"5\nabbba"},{"input":"xabbay","output":"4\nabba"},{"input":"aa","output":"2\naa"},{"input":"a","output":"1\na"}]
