@@ -1,0 +1,1 @@
+[{"input":"11\n1 2 2 2 8 8 1 1 1 1 1","output":"1"},{"input":"12\n1 2 -7 -1 -1 7 -23 -23 -12 -67 12 78","output":"NO MAJORITY ELEMENT"},{"input":"8\n1 1 1 1 2 2 2 2","output":"2"},{"input":"8\n2 1 2 1 2 1 2 1","output":"2"}]
