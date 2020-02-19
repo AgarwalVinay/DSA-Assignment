@@ -1,0 +1,1 @@
+[{"input":"abccc","output":"ab"},{"input":"abbaccabba","output":"VANISHED"},{"input":"ttypuuyykkjhkj","output":"ypjhkj"},{"input":"ttyuuyykkjhkj","output":"jhkj"},{"input":"aaaaaaaaaaa","output":"VANISHED"}]
